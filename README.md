@@ -1,0 +1,1 @@
+Utilizing API and flak application, I created an e_commerce API that allows people to create accounts and keep track of different products.
